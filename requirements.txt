@@ -1,0 +1,3 @@
+echo "networkx
+matplotlib
+pandas" > requirements.txt
